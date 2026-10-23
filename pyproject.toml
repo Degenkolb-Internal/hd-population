@@ -7,6 +7,7 @@ name = "hd-population"
 version = "0.1.0"
 description = "Building-level population with the Hazus Table 12-2 schedule"
 readme = "README.md"
+license = {text = "BSD-3-Clause"}
 requires-python = ">=3.10"
 dependencies = [
     "numpy",

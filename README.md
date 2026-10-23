@@ -83,6 +83,10 @@ without it, hotels get no guests.
 
 Downloads are cached as parquet files under `~/.hd_population` (`cache_dir`).
 
+## License
+
+BSD 3-Clause. See [LICENSE](LICENSE).
+
 ## Data years
 
 The defaults are the 2020 Census, ACS 2019-2023, LODES 2022, CCD and IPEDS 2022, and PSS
